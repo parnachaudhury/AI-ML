@@ -1,2 +1,2 @@
-# AL-ML
-This consists of all the assignments from my AI ML externship.
+# AI-ML
+This consists of all the assignments from my AI-ML externship.
